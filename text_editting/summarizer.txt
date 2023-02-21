@@ -1,0 +1,17 @@
+Artificial intelligence (AI) is a rapidly evolving field that involves the development of intelligent machines that can perform tasks that typically require human intelligence. 
+This includes natural language processing, computer vision, and decision-making. 
+AI is used in a wide range of applications, such as autonomous vehicles, chatbots, and image recognition software. 
+Machine learning, a subset of AI, is a method of teaching machines to learn from data without being explicitly programmed. 
+Deep learning, another subset of AI, involves the use of artificial neural networks that are modeled after the human brain to perform tasks such as image and speech recognition. 
+Despite the many potential benefits of AI, there are also concerns about its impact on employment, privacy, and security. 
+As AI continues to evolve and become more advanced, it is important to carefully consider its ethical implications and potential consequences.
+
+
+
+
+
+SUMMARIZER results:
+
+Deep learning, another subset of AI, involves the use of artificial neural networks that are modeled after the human brain to perform tasks such as image and speech recognition. 
+Machine learning, a subset of AI, is a method of teaching machines to learn from data without being explicitly programmed. 
+Artificial intelligence (AI) is a rapidly evolving field that involves the development of intelligent machines that can perform tasks that typically require human intelligence.

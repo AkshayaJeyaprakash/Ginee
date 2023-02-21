@@ -1,0 +1,148 @@
+India is a vibrant and diverse country located in South Asia. 
+It is the seventh largest country by area and the second most populous country in the world, with over 1.3 billion people. 
+India has a rich history, dating back to ancient civilizations, and has been shaped by a mix of cultures and traditions from different parts of the world. 
+The country is known for its diverse landscapes, including the Himalayan mountain range in the north, the Arabian Sea and Bay of Bengal in the west and east, and the Deccan Plateau in the south. 
+The official language of India is Hindi, but there are over 20 other recognized languages spoken throughout the country. 
+India is also home to numerous religious communities, including Hinduism, Islam, Christianity, Buddhism, and Sikhism. 
+This diversity is reflected in the country's food, music, dance, and art, which are a unique combination of traditional and modern influences. 
+Despite facing economic and social challenges, such as poverty, corruption, and discrimination, India has made significant progress in recent years. 
+The country has a rapidly growing economy, driven by a growing middle class, technological advancements, and the rise of entrepreneurship. 
+India is also home to some of the world's leading universities, research institutions, and companies, making it an important player in the global economy. 
+In conclusion, India is a country that showcases a unique blend of ancient history and modern development. 
+Its rich cultural diversity and economic promise make it a fascinating place to explore and a vital player on the world stage.
+
+
+
+
+
+
+T5 Transformer results:
+
+[['India is a vibrant and diverse country in South Asia.',
+  'India is a vibrant and diverse country located in South Asia.',
+  'India is a vibrant and diverse country in South Asia.',
+  'India is a vibrant and varied country in South Asia.',
+  'India is a vibrant and diverse country based in South Asia.'],
+ ['It is the seventh largest country by area and the second most populous country in the world with',
+  'It is the seventh largest country by area and the second most populous country in the world,',
+  'It is the seventh largest country by area and second most populous country in the world with over',
+  'It is the seventh largest country by area and second most populous country in the world, with',
+  'It is the seventh largest country by area and the second largest country in the world with over '],
+ ['India has a rich history dating back to ancient civilizations and has been shaped by ',
+  'India has a rich history, dating back to ancient civilizations, and has been shaped',
+  'India has a rich history, dating back to ancient civilizations and has been shaped by',
+  'India has a rich history that dates back to ancient civilizations and has been shaped by',
+  'India has a rich history dating back to ancient civilizations, and has been shaped by'],
+ ['The country is known for its diverse landscapes, including the Himalayan mountain range in the',
+  'The country is known for its diverse landscapes, including the Himalayan Mountain Range in the',
+  'The country is known for its diverse landscapes, including the Himalayan Mountains in the north',
+  'The country is known for its varied landscapes, including the Himalayan mountain range in the',
+  'The country is known for its diverse landscapes, including the Himalayan mountains in the north'],
+ ['The official language of India is Hindi, but there are over 20 other recognized languages spoken throughout the',
+  'The official language of India is Hindi, but there are more than 20 other recognized languages spoken throughout',
+  'The official language of India is Hindi but there are over 20 other recognized languages spoken throughout the country',
+  'The official language of India is Hindi, but there are over 20 other recognized languages spoken throughout',
+  'The official language of India is Hindi, but there are more than 20 other recognized languages spoken'],
+ ['India is also home to numerous religious communities, including Hinduism, Islam, Christianity, Buddhism',
+  'India is also home to numerous religious communities including Hinduism, Islam, Christianity, Buddhism and',
+  'India is also home to many religious communities, including Hinduism, Islam, Christianity, Buddhism',
+  'India is also home to several religious communities, including Hinduism, Islam, Christianity, Buddhism',
+  'India is also home to numerous religious communities, including Sikhism, Islam, Christianity,'],
+ ["This diversity is reflected in the country's food, music, dance and art, which",
+  "This diversity is reflected in the country's food, music, dance and art which are",
+  'This diversity is reflected in the food, music, dance and art of the country, which',
+  "This diversity is reflected in the country's food, music, dance and art,",
+  'This diversity is reflected in the country’s food, music, dance and art, which'],
+ ['India has made significant progress in recent years despite facing economic and social challenges such as poverty,',
+  'Despite facing economic and social challenges such as poverty, corruption and discrimination, India has made',
+  'India has made significant progress in recent years despite facing economic and social challenges, such as poverty',
+  'In recent years, India has made significant progress despite facing economic and social challenges such as poverty',
+  'Despite facing economic and social challenges, such as poverty, corruption and discrimination, India has'],
+ ['The country has a rapidly growing economy, driven by a growing middle class, technological advancement',
+  'The country has a rapidly growing economy, driven by a growing middle class, technological',
+  'The country has a rapidly growing economy driven by a growing middle class, technological advancements',
+  'The country has a rapidly growing economy, driven by a growing middle class, technological advances',
+  'The country has a rapidly growing economy driven by a growing middle class, technological advances and'],
+ ["India is also home to some of the world's leading universities, research institutions and companies,",
+  "India is also home to some of the world's leading universities, research institutions and companies ",
+  "India is also home to some of the world's leading universities, research institutes and companies",
+  "India is also home to some of the world's leading universities, research institutions and companies making",
+  'India is also home to some of the leading universities, research institutions and companies in the world,'],
+ ['In conclusion, India is a country that showcases a unique blend of ancient history and',
+  'In conclusion, India is a country that displays a unique blend of ancient history and modern',
+  'In conclusion, India is a country that shows a unique blend of ancient history and modern',
+  'In conclusion, India is a country that offers a unique blend of ancient history and modern',
+  'In conclusion, India is a country that exhibits a unique blend of ancient history and'],
+ ['Its rich cultural diversity and economic promise make it a fascinating place to explore and a',
+  'Its rich cultural diversity and economic potential make it a fascinating place to explore and a',
+  'Its rich cultural diversity and economic promise makes it a fascinating place to explore and a',
+  'Its rich cultural diversity and economic promise make it a fascinating place to explore and vital player',
+  'Its rich cultural diversity and its economic promise make it a fascinating place to explore and ']]
+
+
+
+
+
+
+PEGASUS Transformer results:
+
+[['South Asia contains India, a vibrant and diverse country.',
+  'South Asia has a vibrant and diverse country in India.',
+  'South Asia has a vibrant and diverse country called India.',
+  'India is located in South Asia.',
+  'South Asia has a vibrant and diverse country, India.'],
+ ['It is the second most populous country in the world with over 1.3 billion people.',
+  'It is the second most populous country in the world with over one billion people.',
+  'The second most populous country in the world has over 1.3 billion people.',
+  'It is the second most populous country in the world with more than one billion people.',
+  'It is the second most populous country in the world, with over 1.3 billion people.'],
+ ['India has a rich history dating back to ancient civilizations and has been shaped by a mix of cultures and traditions from different parts of the world.',
+  'India has a rich history, dating back to ancient civilizations, and has been shaped by a mix of cultures and traditions from different parts of the world.',
+  'India has a rich history dating back to ancient civilizations, and has been shaped by a mix of cultures and traditions from different parts of the world.',
+  'India has a rich history, dating back to ancient civilizations and has been shaped by a mix of cultures and traditions from different parts of the world.',
+  "A mix of cultures and traditions from different parts of the world has shaped India's history."],
+ ["The country's diverse landscapes include the Himalayan mountain range in the north, the Arabian Sea and Bay of Bengal in the west and east, and the Deccan Plateau in the south.",
+  'The country has a variety of landscapes, including the Himalayan mountain range in the north, the Arabian Sea and Bay of Bengal in the west and east, and the Deccan Plateau in the south.',
+  "The country's varied landscapes include the Himalayan mountain range in the north, the Arabian Sea and Bay of Bengal in the west and east, and the Deccan Plateau in the south.",
+  'The country has diverse landscapes, including the Himalayan mountain range in the north, the Arabian Sea and Bay of Bengal in the west and east, and the Deccan Plateau in the south.',
+  "The country's diverse landscapes include the Himalayan mountain range in the north, the Arabian Sea and Bay of Bengal in the west, and the Deccan Plateau in the south."],
+ ['Hindi is the official language of India, but there are over 20 other recognized languages in the country.',
+  'Hindi is the official language of India, but there are more than 20 other recognized languages in the country.',
+  'Hindi is the official language of India, but there are many other languages spoken in the country.',
+  'Hindi is the official language of India, but there are more than 20 other recognized languages.',
+  'Hindi is the official language of India, but there are over 20 other recognized languages.'],
+ ['Hinduism, Islam, Christianity, Buddhism, and Sikhism are some of the religions in India.',
+  'Hinduism, Islam, Christianity, Buddhism, and Sikhism are all found in India.',
+  'Hinduism, Islam, Christianity, Buddhism, and Sikhism are just some of the religions in India.',
+  'India has many religious communities, including Hinduism, Islam, Christianity, Buddhism, and Sikhism.',
+  'Hinduism, Islam, Christianity, Buddhism, and Sikhism are some of the religions that are found in India.'],
+ ["A combination of traditional and modern influences is reflected in the country's food, music, dance, and art.",
+  "The country's food, music, dance, and art are a combination of traditional and modern influences.",
+  "The country's food, music, dance, and art are a mixture of traditional and modern influences.",
+  "A combination of traditional and modern influences is reflected in the country's food, music, dance and art.",
+  "The country's food, music, dance, and art is a mixture of traditional and modern influences."],
+ ['India has made significant progress in recent years despite facing economic and social challenges.',
+  'India has made progress in recent years despite facing economic and social challenges.',
+  'India has made progress despite facing economic and social challenges.',
+  'India has made significant progress despite facing economic and social challenges.',
+  'Despite facing economic and social challenges, India has made progress in recent years.'],
+ ['The country has a rapidly growing economy that is driven by a growing middle class, technological advancement, and the rise of entrepreneurship.',
+  'The country has a rapidly growing economy that is driven by a growing middle class and technological advancement.',
+  'The country has a rapidly growing economy that is driven by a growing middle class, technological advancement, and rise of entrepreneurship.',
+  'The country has a rapidly growing economy, driven by a growing middle class, technological advancement, and rise of entrepreneurship.',
+  'The country has a rapidly growing economy that is driven by a growing middle class, technological advancement and the rise of entrepreneurship.'],
+ ["India is home to some of the world's leading universities, research institutions, and companies, making it an important player in the global economy.",
+  "India is home to some of the world's leading universities, research institutions and companies, making it an important player in the global economy.",
+  "India is home to many of the world's leading universities, research institutions, and companies, making it an important player in the global economy.",
+  "India is home to many of the world's leading universities, research institutions and companies, making it an important player in the global economy.",
+  "India is home to some of the world's leading universities, research institutions, and companies making it an important player in the global economy."],
+ ['India has a unique blend of ancient history and modern development.',
+  'India showcases a unique blend of ancient history and modern development.',
+  'India is a country with a unique blend of ancient history and modern development.',
+  'India showcases a blend of ancient history and modern development.',
+  'India shows a unique blend of ancient history and modern development.'],
+ ['Its rich cultural diversity and economic promise make it a fascinating place to explore and a vital player on the world stage.',
+  "It's rich cultural diversity and economic promise make it a fascinating place to explore and a vital player on the world stage.",
+  "It's rich cultural diversity and economic promise makes it a fascinating place to explore and a vital player on the world stage.",
+  'It is a fascinating place to explore and a vital player on the world stage because of its rich cultural diversity and economic promise.',
+  'Its rich cultural diversity and economic promise makes it a fascinating place to explore and a vital player on the world stage.']]

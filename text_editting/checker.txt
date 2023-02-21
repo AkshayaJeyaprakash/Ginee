@@ -1,0 +1,108 @@
+LanguageTool offers spell and grammar checking.
+Just paste your text here and click the 'Check Text' button.
+Click the colored phrases for details on potential errors.
+or use this text too see an few of of the problems that
+LanguageTool can detecd. What do you thinks of grammar checkers?
+Please not that they are not perfect. Style issues get a blue marker:
+It's 5 P.M. in the afternoon. The weather was nice on Thursday, 27 June 2017
+
+
+
+Offset 168, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: This sentence does not start with an uppercase letter.
+Suggestion: Or
+...hrases for details on potential errors. or use this text too see an few of of the ...
+                                           ^^
+Error starts at => 168
+Error ends at => 170
+Error in text => or
+Can be replaced with => ['Or']
+
+--------------
+Offset 185, length 7, Rule ID: TOO_TO
+Message: Did you mean “to see”?
+Suggestion: to see
+...s on potential errors. or use this text too see an few of of the problems that Language...
+                                           ^^^^^^^
+Error starts at => 185
+Error ends at => 192
+Error in text => too see
+Can be replaced with => ['to see']
+
+--------------
+Offset 193, length 2, Rule ID: EN_A_VS_AN
+Message: Use “a” instead of ‘an’ if the following word doesn’t start with a vowel sound, e.g. ‘a sentence’, ‘a university’.
+Suggestion: a
+...ential errors. or use this text too see an few of of the problems that LanguageToo...
+                                           ^^
+Error starts at => 193
+Error ends at => 195
+Error in text => an
+Can be replaced with => ['a']
+
+--------------
+Offset 200, length 5, Rule ID: ENGLISH_WORD_REPEAT_RULE
+Message: Possible typo: you repeated a word
+Suggestion: of
+...errors. or use this text too see an few of of the problems that LanguageTool can dete...
+                                           ^^^^^
+Error starts at => 200
+Error ends at => 205
+Error in text => of of
+Can be replaced with => ['of']
+
+--------------
+Offset 241, length 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: detect
+...f of the problems that LanguageTool can detecd. What do you thinks of grammar checkers...
+                                           ^^^^^^
+Error starts at => 241
+Error ends at => 247
+Error in text => detecd
+Can be replaced with => ['detect']
+
+--------------
+Offset 261, length 6, Rule ID: DO_VBZ
+Message: After the auxiliary verb ‘do’, use the base form of the main verb. Did you mean “think”?
+Suggestion: think
+...at LanguageTool can detecd. What do you thinks of grammar checkers? Please not that th...
+                                           ^^^^^^
+Error starts at => 261
+Error ends at => 267
+Error in text => thinks
+Can be replaced with => ['think']
+
+--------------
+Offset 296, length 3, Rule ID: PLEASE_NOT_THAT
+Message: Did you mean “note”?
+Suggestion: note
+... you thinks of grammar checkers? Please not that they are not perfect. Style issues...
+                                           ^^^
+Error starts at => 296
+Error ends at => 299
+Error in text => not
+Can be replaced with => ['note']
+
+--------------
+Offset 366, length 21, Rule ID: PM_IN_THE_EVENING
+Message: This is redundant. Consider using “P.M.”
+Suggestion: P.M.
+... Style issues get a blue marker: It's 5 P.M. in the afternoon. The weather was nice on Thursday, 27 J...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Error starts at => 366
+Error ends at => 387
+Error in text => P.M. in the afternoon
+Can be replaced with => ['P.M.']
+
+--------------
+Offset 413, length 22, Rule ID: DATE_WEEKDAY
+Message: The date 27 June 2017 is not a Thursday, but a Tuesday.
+... the afternoon. The weather was nice on Thursday, 27 June 2017
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Error starts at => 413
+Error ends at => 435
+Error in text => Thursday, 27 June 2017
+Can be replaced with => []
+
+--------------
